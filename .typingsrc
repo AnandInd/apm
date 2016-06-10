@@ -1,0 +1,2 @@
+proxy=http://proxy-apsg.nslb.ad.moodys.net/mdyproxy.pac
+rejectUnauthorized=false
